@@ -1,2 +1,0 @@
-# Dupel
-Test dupel repo
